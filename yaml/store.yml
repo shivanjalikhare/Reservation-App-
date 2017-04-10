@@ -1,0 +1,54 @@
+---
+1: !ruby/object:Reservation
+  numpeople: '3'
+  date: '2017-02-18'
+  phone: '21135151'
+  id: 1
+2: !ruby/object:Reservation
+  numpeople: '2'
+  date: '2017-03-18'
+  phone: '223443'
+  id: 2
+  title: title
+3: !ruby/object:Reservation
+  numpeople: '2'
+  date: '2017-03-16'
+  phone: '2364127'
+  id: 3
+  title: shivi
+4: !ruby/object:Reservation
+  numpeople: '3'
+  date: '2017-02-18'
+  phone: '65462'
+  id: 4
+  title: raunak
+5: !ruby/object:Reservation
+  numpeople: '4'
+  date: '2019-01-19'
+  phone: '164641651'
+  id: 5
+  title: surbhi
+6: !ruby/object:Reservation
+  numpeople: '3'
+  date: '2017-02-18'
+  phone: '164641651'
+  id: 6
+  title: newme
+7: !ruby/object:Reservation
+  numpeople: '2'
+  date: '2017-02-18'
+  phone: '164641651'
+  id: 7
+  title: newme1
+8: !ruby/object:Reservation
+  numpeople: ''
+  date: ''
+  phone: ''
+  id: 8
+  title: ''
+9: !ruby/object:Reservation
+  numpeople: ''
+  date: ''
+  phone: ''
+  id: 9
+  title: ''
