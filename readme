@@ -1,0 +1,13 @@
+Restaurant Reservation
+Ruby version 2.3.0.  04/09/2017
+
+Files included with this project:
+    reservation.rb        index.erb        store.yml
+    reservation_store     new.erb          app.rb
+    
+-The app is for a customer to make a table reseravation in a restaurant. 
+-As soon as the app open the index page asks the customer if he has to book table for reservation.
+-By entering necessary credentials the data gets saved and is showed in the form of updated list showing all the reservations made till now.
+
+
+email: shivanjali.khare@gmail.com
