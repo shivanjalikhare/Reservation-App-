@@ -1,0 +1,15 @@
+<html>
+
+        
+<h1>Restaurant Reservations</h1>   
+    <body>
+        
+        <ul>
+            <% @reservations.each do |reservation| %>
+            <li>
+                <%= reservation.title %>
+            </li>
+        <%end%></ul>
+        <a href="/reservations/new">Add New Reservation</a>
+    </body>
+</html>
